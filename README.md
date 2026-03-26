@@ -8,5 +8,4 @@ Integrated Sensing and Communication (ISAC) combined with Unmanned Aerial Vehicl
 Copyright Notice: This paper is original content. Reproduction is prohibited without prior permission and please include the original source link and this statement.
 
 ## About the code
-
-If you have any questions, please contact: zhshc@smail.nju.edu.cn.
+The code has not been organized and may not be complete. If you have any questions, please contact: zhshc@smail.nju.edu.cn.
